@@ -22,11 +22,13 @@ import quote from "../assets/quote.png";
 import gericht from "../assets/gericht.png";
 import granpizza from "../assets/granpizza.png";
 import gp from "../assets/gp.png";
+import pizzawelcome from "../assets/pizzawelcome.png";
 
 export default {
   bg,
   chef,
   G,
+  pizzawelcome,
   gp,
   granpizza,
   gallery01,
