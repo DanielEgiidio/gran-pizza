@@ -23,11 +23,13 @@ import gericht from "../assets/gericht.png";
 import granpizza from "../assets/granpizza.png";
 import gp from "../assets/gp.png";
 import pizzawelcome from "../assets/pizzawelcome.png";
+import GPabout from "../assets/GPabout.png";
 
 export default {
   bg,
   chef,
   G,
+  GPabout,
   pizzawelcome,
   gp,
   granpizza,

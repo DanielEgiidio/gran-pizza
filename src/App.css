@@ -101,15 +101,15 @@
   width: 45px;
 }
 
-@media screen and (min-width: 2000px) {
+@media screen and (min-width: 2600px) {
   .custom__button,
   .p__cormorant {
-    font-size: 37px;
+    font-size: 45px;
     line-height: 67px;
   }
 
   .p__opensans {
-    font-size: 30px;
+    font-size: 40px;
     line-height: 50px;
   }
 
