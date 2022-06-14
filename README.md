@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+<a href="https://ibb.co/qFGskKB"><img src="https://i.ibb.co/LhwtnmS/gran-piiza.png" alt="gran-piiza" border="0"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🚀 Info
 
-## Available Scripts
+A aplicação se trata de um website para uma pizzaria com um layout professional e moderno seguindo as melhores práticas de UX/UI, totalmente responsivo.
 
-In the project directory, you can run:
+Na aplicação em questão foi utilizado Reacjs, seguindo as melhores práticas e Clean Code, já a estilização, foi seguido as normas de UX/UI para melhor usabilidade e interface mais atraente para o usuário, ainda foi utilizado o padrão BEM no CSS para melhor legibilidade, organização e manutenção.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 👨‍💻 Tecnologias
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-### `npm test`
+- [React](https://reactjs.org)
+- [BEM](http://getbem.com/)
+- [Netlify](https://www.netlify.com/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🔖 Layout:
 
-### `npm run build`
+A aplicação foi baseada no site Gericht, disponibilizado no link abaixo;
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [Layout Figma](hhttps://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=53%3A2)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ⚙️ Como rodar o projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Você pode acessar a aplicação Web onde foi feito deploy na Netlify utilizando as estrategias de CI/CD, ou roda-la localmente seguindo os procedimentos abaixo;
+- [Aplicação Web](https://gran-pizza.netlify.app/)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```sh
+$ cd gran-pizza
+$ npm install
+$ npm start
+```
