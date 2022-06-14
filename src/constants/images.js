@@ -24,10 +24,12 @@ import granpizza from "../assets/granpizza.png";
 import gp from "../assets/gp.png";
 import pizzawelcome from "../assets/pizzawelcome.png";
 import GPabout from "../assets/GPabout.png";
+import laurelsgp from "../assets/laurelsgp.png";
 
 export default {
   bg,
   chef,
+  laurelsgp,
   G,
   GPabout,
   pizzawelcome,
