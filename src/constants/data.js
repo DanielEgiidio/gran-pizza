@@ -64,17 +64,17 @@ const awards = [
   },
   {
     imgUrl: images.award01,
-    title: "Rising Star",
+    title: "Estrela em ascensão",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
   },
   {
     imgUrl: images.award05,
-    title: "AA Hospitality",
+    title: "Nota AA em Hospitalidade",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
   },
   {
     imgUrl: images.award03,
-    title: "Outstanding Chef",
+    title: "Excelente Chef",
     subtitle: "Lorem ipsum dolor sit amet, consectetur.",
   },
 ];
