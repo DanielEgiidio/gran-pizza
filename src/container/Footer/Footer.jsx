@@ -25,6 +25,7 @@ const Footer = () => (
         </p>
         <img
           src={images.spoon}
+          alt="spoon"
           className="spoon__img"
           style={{ marginTop: 15 }}
         />
