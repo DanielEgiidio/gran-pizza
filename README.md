@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A aplicação foi baseada no site Gericht, disponibilizado no link abaixo;
 
-- [Layout Figma](hhttps://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=53%3A2)
+- [Layout Figma](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget](https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=53%3A2))
 
 ## ⚙️ Como rodar o projeto
 
